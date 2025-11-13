@@ -1,159 +1,136 @@
-✨ Jinsoo Kim (김진수)
-Full Stack Developer
+<div align="center">
 
-📞 010-3432-0441
-✉️ 1004kjs12@gmail.com
+# 👋 안녕하세요, 김진수입니다.
+### 3년 차 풀스택 개발자 | Automation & AI Enthusiast  
+🔥 **Node.js · NestJS · React Native · FastAPI · AWS**
 
-📍 Incheon, South Korea
-🎂 1999.07.08
+<br/>
 
-👋 About Me
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_ID)
 
-안녕하세요!
-저는 3년 차 풀스택 개발자 김진수입니다.
+</div>
 
-웹·앱 서비스를 기획 → 개발 → 배포까지 경험
+---
 
-작은 팀에서 자동화·효율화·운영 최적화로 실질적 성과 달성
+## 🧑‍💻 About Me
 
-프론트엔드와 백엔드를 모두 이해하는 서비스 중심 개발자
+- **3년 차 풀스택 개발자**로 웹·앱 서비스 개발 경험 보유  
+- 작은 팀에서 **자동화·효율화 중심 개발** 경험 풍부  
+- NestJS, TypeScript, FastAPI, AWS 기반의 **백엔드 아키텍처 설계**에 강점  
+- 기획 의도를 넘어 **사용자 경험·업무 효율을 위한 제안형 개발자**  
+- AI·LLM 기반 서비스에 관심이 많으며 실제 프로젝트에 적용 중  
+- 레거시 개선과 구조화, 안정성 강화에 자신 있음  
 
-최근 AI/LLM 기반 서비스, 자동화, 개인화 시스템에 관심
+📍 **Incheon, South Korea**  
+📧 **1004kjs12@gmail.com**  
+📞 **010-3432-0441**  
 
-사용자에게 “가치 있는 경험”을 만드는 개발자를 지향합니다
+---
 
-🚀 Tech Stack
-Languages
+## 🛠 Tech Stack
 
-JavaScript
+### **Backend**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-TypeScript
+### **Frontend & Mobile**
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-Python
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-PHP
+### **Infra & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 
-Frameworks & Libraries
+### **CI/CD & Collaboration**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-NestJS, Express, FastAPI
+---
 
-React Native (Expo), Vue.js, AngularJS
+## 🏢 Career
 
-Laravel
+### **💼 FullLab**
+> 채용 관리 SaaS / 2023.11 ~ 2024.11  
+> 퇴사 사유: 폐업 예정으로 인한 권고 사직
 
-Databases
+- 신규 입사자 담당자 지정 기능 개발 (NestJS + TypeORM)
+- 리마인드 알림 자동화 (AWS Lambda)
+- ECS Fargate 기반 CI/CD 구축 → 성능 3배 개선, 비용 30% 절감
+- 온보딩 관리 시스템 설계 및 구축
+- PHP 레거시 서버 → Node.js로 전환
 
-MySQL, PostgreSQL, MongoDB
+---
 
-Infra & DevOps
+### **💼 한국부동산데이터연구소**
+> 부동산 안전도 분석 플랫폼 / 2023.03 ~ 2023.09  
+> 퇴사 사유: 경영 악화로 인한 권고 사직
 
-AWS (ECS, ECR, Lambda, SQS, SNS, SES, EB, Route53)
+- 등기부등본 자동 분석 시스템 구축 (AWS SQS)
+- 검수·대조 프로세스 5분 → 1분 단축
+- Vue3 + NestJS 기반 사용자/백오피스 개발
+- 금융사기/신용조회 기능 개발
+- 관리자 페이지 효율화
 
-Docker
+---
 
-Nginx
+### **💼 PlayAuto**
+> 온라인 판매자 통합관리 SaaS / 2022.06 ~ 2023.02  
+> 퇴사 사유: 타사 스카우트 제안
 
-GitHub Actions, CircleCI, CodePipeline
+- 한진택배 운송장 기능 개발
+- 쇼핑몰 문의 통합 관리 기능 고도화
+- 실시간 버그 대응 및 유지보수
 
-Monitoring & Documentation
+---
 
-Sentry
+## 🚀 Projects
 
-Swagger
+### 🌿 **Harang — 기독교 소개팅 서비스**
+> 기획 → 디자인 → 개발까지 전담한 풀스택 프로젝트
 
-Notion, Confluence
+**React Native (Expo) 앱 개발**  
+- 회원가입/인증, 프로필, 추천 매칭, 채팅 기능 구현
 
-🏢 Career
-FullLab (풀랩)
+**서버 아키텍처**  
+- 메인 서버(NestJS), 결제서버(FastAPI), 자동 매칭(Lambda)  
+- Kafka 이벤트 기반 구조로 서버 간 데이터 일관성 보장  
+- 헥사고날 아키텍처로 서비스 확장성 확보
 
-채용관리 SaaS 플랫폼
-2023.11 ~ 2024.11 ・ 폐업 예정으로 인한 권고사직
+---
 
-주요 성과
+## 📊 GitHub Stats
 
-입사자 담당자 지정 기능 개발 (NestJS + TypeORM)
+<div align="center">
 
-AWS Lambda 기반 리마인드 자동화
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true)
+![toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true)
 
-ECS Fargate 전환 → 속도 3배↑ / 비용 30%↓
+</div>
 
-온보딩 시스템 구성(SOLID 기반)
+---
 
-PHP → Node.js 서버 전환 리드
+## 📫 Contact
 
-한국부동산데이터연구소
+- 📞 **010-3432-0441**  
+- 📧 **1004kjs12@gmail.com**  
+- 📍 **인천광역시 서구 가좌동**  
+- 🧑‍💻 **GitHub**: https://github.com/YOUR_GITHUB_ID
 
-부동산 안전도 분석 프롭테크 서비스
-2023.03 ~ 2023.09 ・ 경영 약화로 권고사직
+---
 
-주요 성과
+<div align="center">
+  
+### ⭐ Thanks for visiting my profile! ⭐  
+If you want to collaborate, feel free to reach out anytime.
 
-등기부 자동 분석 인프라 구축(SQS 기반)
-→ 5분 → 1분 이하 단축
-
-임대인 등기부 분석 기능 개발 (Vue3 + NestJS)
-
-금융사기/신용조회 API 연동
-
-백오피스 자동 검수자 배정 기능 개발
-
-PlayAuto (플레이오토)
-
-온라인 판매자 SaaS
-2022.06 ~ 2023.02 ・ 이직 제안으로 퇴사
-
-주요 성과
-
-한진택배 운송장 기능 개발 (AngularJS + NestJS)
-
-쇼핑몰 문의 통합 기능 개선
-
-실시간 버그 대응 및 운영 안정화
-
-🌿 Side Project — Harang (하랑)
-
-기독교 소개팅 · 만남 서비스 · Full-Stack Lead
-
-📱 React Native 앱 개발
-
-인증, 매칭 알고리즘, 프로필, 채팅 등 구현
-
-🧠 서버 아키텍처 설계
-
-메인 서버: NestJS (헥사고날 아키텍처 기반)
-
-결제 서버: FastAPI (독립 구성)
-
-자동 매칭 서버: AWS Lambda
-
-⚙️ 이벤트 기반 통신
-
-Kafka 기반 서버 간 이벤트 흐름
-
-장애 격리 및 확장성 확보
-
-🙋‍♂️ What I Believe
-
-기획 의도 이상의 개발자
-단순 구현에 그치지 않고, 사용자가 진짜 원하는 방향을 고민합니다.
-
-자동화로 효율을 만드는 개발자
-반복 작업을 자동화해 운영 시간을 줄이는 것을 좋아합니다.
-
-비즈니스를 이해하는 개발자
-기능 하나가 회사 목표에 어떤 영향을 가지는지 고려합니다.
-
-배움을 즐기는 사람
-새로운 기술, 새로운 아키텍처에 빠르게 적응합니다.
-
-🎯 Goal
-사람들의 반복적인 고민을 줄이고,
-“의미 있는 기술”을 만드는 것이 목표입니다.
-
-📫 Contact
-
-Email: 1004kjs12@gmail.com
-
-Phone: 010-3432-0441
-
-Location: Incheon, Korea
+</div>
