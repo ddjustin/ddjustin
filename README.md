@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 안녕하세요, 김진수입니다.
-### 3년 차 풀스택 개발자 | Automation & AI Enthusiast  
+### 3년 차 풀스택 개발자 
 🔥 **Node.js · NestJS · React Native · FastAPI · AWS**
 
 <br/>
